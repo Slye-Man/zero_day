@@ -1,0 +1,3 @@
+The 'uname' command without any option prints out system information of the operating system
+For example, on my Ubuntu WSL when I type 'uname' it prints out Linux.
+When I type the same command on Windows Git Bash it prints out MINGW64_NT-10.0-19045
